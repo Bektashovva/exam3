@@ -11,7 +11,7 @@ public class Main {
         System.out.println(legal);
 
 
-        Technical technical = new Technical("Машины", 10);
+        Technical technical = new Technical("Винни-Пух", 10);
         System.out.println(technical);
     }
 }
