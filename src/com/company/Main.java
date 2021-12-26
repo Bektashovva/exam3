@@ -3,11 +3,11 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        OfArt art = new OfArt("Филип Хеншер ", 12);
+        OfArt art = new OfArt("Унесенные ветром ", 12);
         System.out.println(art);
 
 
-        Legal legal = new Legal("Юридические Хитрости ", 15);
+        Legal legal = new Legal("Лицом к лицу ", 15);
         System.out.println(legal);
 
 
